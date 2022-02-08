@@ -3,6 +3,8 @@ Estrutura básica de projetos front-end para estudos de HTML, JS, CSS / SASS.
 
 - Flexível para você adaptar para projetos e estudos.
 - Estensível, você consegue instalar novas bibliotecas e adaptar para outras linguagens.  
+- Media management with CSS
+
 
 ## Stack inicial
 - Babel
